@@ -25,7 +25,7 @@ SECRET_KEY = 'j+ygfe%p=$$adxfspu-ggslbz@(&*bkdq*^p-bl_&jvru1zn%s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["0.0.0.0"]
+ALLOWED_HOSTS = ["127.0.0.1"]
 
 
 # Application definition
